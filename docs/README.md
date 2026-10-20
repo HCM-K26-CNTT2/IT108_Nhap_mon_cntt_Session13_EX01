@@ -31,3 +31,31 @@ WS-02|LK-SSD-002|SSD Samsung 980 1TB PCIe 3.0 NVMe M.2|1 TB|32 GB|
 WS-03|LK-SSD-003|SSD Kingston NV3 1TB PCIe 4.0 NVMe M.2|1 TB|32 GB|
 WS-04|LK-SSD-004|SSD Crucial BX500 480GB 2.5-inch SATA III|480 GB|8 GB|
 WS-05|LK-SSD-005|SSD Samsung 990 Pro 2TB PCIe 4.0 NVMe M.2|2 TB|64 GB|
+
+
+
+
+
+
+
+
+
+
+**Module 3: Tài liệu hướng dẫn vận hành (Markdown & Word)**
+![hình ảnh](https://github.com/user-attachments/assets/9c31e77e-5b93-409f-93a2-186a7f38ae8c)
+
+**Module 4: Đối soát tài nguyên (Excel)**
+![hình ảnh](https://github.com/user-attachments/assets/3ed5df06-e3d1-47d8-983c-fcd5127dc2df)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
